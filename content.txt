@@ -1,0 +1,98 @@
+ 1. Hero Section (Top Banner)
+Content:
+•	Headline:
+“Seamless Services from the Comfort of Your Home”
+•	Subheadline:
+“Leave the Hassle to Us — We’re Beside You, Beyond Barriers.”
+•	CTA Buttons:
+o	📞 Call Now
+o	💬 WhatsApp Message
+o	📝 Fill Enquiry Form
+________________________________________
+✅ 2. About Us 
+OUR STORY
+At Dizerodha LLP, we’re more than just a service provider—we’re a story of resilience, friendship, and purpose.
+It all began in 2020, during one of the world’s toughest times. The pandemic had brought life to a halt. People were stuck indoors, unsure how to access even the most basic services. But over a simple plate of pakodas and an evening chat, two friend fresh out of the University —asked themselves a powerful question: “What if we could bring essential services to people, without them having to step outside?”
+That was the spark. And from that moment, Cyber Cafe on a Call was born.
+What started as a humble effort to help few customers grew into a mission to reach thousands. With dedication, accuracy, and genuine care, we built trust—by being there when it mattered most, guiding every form, every step, every time. We didn’t just process forms; we listened, guided, and stood beside every customer who needed support.
+Today, after serving over 6,500+ customers, our dream has grown—and so have we. Seeing the impact, we knew it was time to go bigger. That’s when we registered Dizerodha LLP—a name that carries our promise forward across India.
+Why do people choose us? Because we’re not just about documents and deadlines. We’re about making life easier. We know your time is precious. We know paperwork is a pain. So we handle the hassle, while you focus on what matters most.
+We’re here, Beyond Barriers, Beside You—and this is just the beginning.
+ ________________________________________
+ 3. Our Services
+1. Central Services (Available Across India)
+Accessible to all customers, regardless of their location.
+Display this as a simple grid or icon list, each item clickable and redirecting to the CTA section.
+Services:
+•	Passport Application & Renewal
+•	PAN Card Application
+•	ITR Filing & Income Tax Support
+•	FSSAI License
+•	ICAI Registration
+•	EPFO & PF Services
+•	Voter ID Services
+•	Aadhaar Address Update Assistance
+•	Address Corrections
+•	Lost Document Support (Academics)
+•	Employment Verification Support
+•	Digital Signature Services (DSC)
+•	Udyam/MSME Registration
+On Click:
+➡️ Redirect to a CTA page or pop-up:
+“Talk to us now via Call | WhatsApp | Enquiry Form”
+________________________________________
+2. State-Specific Services
+Select your state to view customized services available in your region.
+ Dropdown:
+[Select State Dropdown]
+Example options:
+•	Bihar
+•	Jharkhand
+•	Karnataka
+•	Delhi
+•	Maharashtra
+(All states added easily)
+📄 Display Format:
+Once the state is selected, show cards/list of available services. Example for Delhi:
+•	Birth certificate 
+•	Death Certificate
+•	Vendor License
+🟢 On Click of any service:
+➡️ Redirect to CTA section with options:
+📞 Call Now | 💬 WhatsApp | 📝 Fill Enquiry Form
+________________________________________
+🔄 Additional Enhancement if possible:
+•	Use a modal pop-up or sticky bottom drawer for the CTA instead of redirecting to a new page.
+•	Let users click the service → see a short description → then CTA appears below.
+ ________________________________________
+✅ 4. How It Works (Simplified Process)
+1.	Select a Service
+Choose the service you need from our central or state-specific list.
+2.	Reach Out to Us
+Fill out our simple enquiry form or contact us via Call or WhatsApp.
+3.	Get Guided
+We’ll assist you with the list of required documents and share transparent pricing.
+4.	Relax While We Work
+Sit back and let us handle the process end-to-end on your behalf.
+5.	Stay Updated
+We provide regular follow-ups and updates until your service is successfully delivered.
+ 5. Why Choose Us
+•	✔️ Completely Online Process – No office visits, ever.
+•	✔️ Secure & Confidential – Your data is handled with the utmost privacy.
+•	✔️ Transparent & Affordable Pricing – No hidden charges.
+•	✔️ Dedicated WhatsApp Support – Real people, real help, in real time.
+•	✔️ Customized State-Specific Services – Tailored to your region’s needs.
+________________________________________
+6. Testimonials
+
+________________________________________
+7. Footer (Sticky or Scroll)
+Content:
+•	Dizerodha , “Beyond Barriers , Beside You!”
+•	Contact Details +91-7349063236
+•	Social Media (Instagram, Twitter, Whatsapp, Email
+•	Repeated Call Now, WhatsApp, and Form Link
+________________________________________Additional Requirement:
+•	Make Call Now and WhatsApp buttons sticky (always visible).
+•	Use chat-style pop-up that says: "Need Help? Chat with us on WhatsApp!"
+
